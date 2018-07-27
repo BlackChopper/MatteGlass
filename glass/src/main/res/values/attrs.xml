@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MatteGlassView">
+        <attr name="matteRadius" format="dimension"/>
+        <attr name="matteDownSample" format="float"/>
+        <attr name="matteLayColor" format="color"/>
+    </declare-styleable>
+</resources>
