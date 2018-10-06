@@ -1,4 +1,4 @@
-package com.blackchopper.matteglass.widget;
+package com.hacknife.matteglass.widget;
 
 
 import android.app.Activity;
@@ -19,7 +19,7 @@ import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewTreeObserver;
 
-import com.blackchopper.matteglass.R;
+import com.hacknife.matteglass.R;
 
 
 public class MatteGlassView extends View {
