@@ -4,5 +4,10 @@
         <attr name="matteRadius" format="dimension"/>
         <attr name="matteDownSample" format="float"/>
         <attr name="matteLayColor" format="color"/>
+        <attr name="matteCornerRadius" format="dimension" />
+        <attr name="matteCornerLeftTopRadius" format="dimension" />
+        <attr name="matteCornerRightTopRadius" format="dimension" />
+        <attr name="matteCornerLeftBottomRadius" format="dimension" />
+        <attr name="matteCornerRightBottomRadius" format="dimension" />
     </declare-styleable>
 </resources>
